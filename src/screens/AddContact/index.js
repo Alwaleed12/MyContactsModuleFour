@@ -34,7 +34,7 @@ const AddContact = props => {
         }
 
         alert(fullname + ' Added!');
-        //navigation.navigate('Get Reminders!');
+        navigation.navigate('Go To Contacts!');
     }
 
   return (
